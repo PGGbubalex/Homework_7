@@ -10,6 +10,7 @@ public class Main {
         savings = savings + (savings*0.07);
         savings = savings + salary;
         System.out.println("За " + month + " месяц Василий накопил " + savings + " рублей.");
+
     }
     }
 }
